@@ -1,3 +1,0 @@
-Please compile the program as following:
-g++ -std=c++0x DessertShop.cpp icecream.cpp cookie.cpp candy.cpp 
-There is c++0x because stoi and to_string functions supports c++11 
